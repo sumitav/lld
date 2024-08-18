@@ -4,6 +4,7 @@
 function Person(name,age){
     this.name=name;
     this.age=age;
+    //added name
 }
 function PersonBuilder(){
     this.person=new Person();
