@@ -1,1 +1,1 @@
-# lld
+# repository to practice different design patterns
